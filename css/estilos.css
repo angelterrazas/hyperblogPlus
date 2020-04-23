@@ -3,7 +3,6 @@ body{
   color:coral;
   font-weight:400;
   text-align: left;
-<<<<<<< HEAD
   
 }
 #container{
@@ -16,9 +15,7 @@ body{
 
 #container h1{
   font-size: 25px;
-=======
   font-family: cursive;
->>>>>>> cabecera
 }
 #container{
   width: 70%;
