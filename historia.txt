@@ -1,6 +1,4 @@
-Hoy hablaremos de la historia 
+Hoy hablaremos de la historia
 de Angel Terrazas.
-Tiene 23 años y esta
-estudiando Web developer.
-Vivirá un tiempo en Europa.
-Su pasatiempo es hacer yoga y meditar.
+Tiene 22 años y esta
+estudiando Frontend developer.
