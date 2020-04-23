@@ -3,6 +3,7 @@ body{
   color:coral;
   font-weight:400;
   text-align: left;
+<<<<<<< HEAD
   
 }
 #container{
@@ -15,4 +16,35 @@ body{
 
 #container h1{
   font-size: 25px;
+=======
+  font-family: cursive;
+>>>>>>> cabecera
+}
+#container{
+  width: 70%;
+  padding: 0;
+  text-align: left;
+  border: 1px solid gray;
+  margin: 0 auto;
+}
+
+#post h1{
+  font-size: 20px;
+}
+.cabecera #id{
+font-size: 15px;
+margin-left: 10px;;
+}
+
+.cabecera{
+  background: darkgrey;
+  padding: 1px 10px;
+  box-shadow: 1px 9px 9px -1px rgba(0,0,0,0.75);
+}
+.cabecera h3{
+  color:white;
+}
+
+#post{
+  padding: 1rem;
 }
