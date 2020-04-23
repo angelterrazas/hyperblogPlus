@@ -1,9 +1,9 @@
 body{
   text-align: center;
-  color:#3b3c87;
+  color:coral;
   font-weight:400;
   text-align: left;
-  font-family: cursive;
+  
 }
 #container{
   width: 70%;
@@ -14,5 +14,5 @@ body{
 }
 
 #container h1{
-  font-size: 20px;
+  font-size: 25px;
 }
