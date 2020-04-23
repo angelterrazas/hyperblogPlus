@@ -2,6 +2,17 @@ body{
   text-align: center;
   color:#3b3c87;
   font-weight:400;
-  font-style: italic;
+  text-align: left;
   font-family: cursive;
+}
+#container{
+  width: 70%;
+  padding: 1em;
+  text-align: left;
+  border: 1px solid gray;
+  margin: 0 auto;
+}
+
+#container h1{
+  font-size: 20px;
 }
