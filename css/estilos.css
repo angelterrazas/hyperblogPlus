@@ -7,7 +7,7 @@ body{
   font-family: sans-serif;
   
 }
-#container{
+.container{
   width: 70%;
   padding: 1em;
   text-align: left;
@@ -15,7 +15,7 @@ body{
   margin: 0 auto;
 }
 
-#container{
+.container{
   width: 70%;
   padding: 0;
   text-align: left;
@@ -23,7 +23,7 @@ body{
   margin: 0 auto;
 }
 
-#post h1{
+.post h1{
   font-size: 20px;
 }
 .cabecera #id{
@@ -36,19 +36,21 @@ margin-left: 10px;;
   padding: 1px 10px;
   box-shadow: 1px 9px 9px -1px rgba(0,0,0,0.75);
   display: flex;
+  border-top-color: white;
 }
 .cabecera h3{
   color:rgb(248, 113, 113);
 }
 
-#post{
+.post{
   padding: 1rem;
   background-color: rgba(255, 87, 21, 0.555);
 }
 
 
 
-.cabecera #logo{
+.cabecera .logo{
   width: 75px;
   vertical-align: middle;
 }
+
