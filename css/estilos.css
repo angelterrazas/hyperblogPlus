@@ -52,5 +52,20 @@ margin-left: 10px;;
 .cabecera .logo{
   width: 75px;
   vertical-align: middle;
+<<<<<<< HEAD
+=======
+}
+.footer{
+  height: 50px;
+  display: flex;
+  align-items: center;
+  background-color: rgba(140, 214, 214, 0.568);
+}
+
+.footer img{
+  width: 25px;
+  height: 25px;
+  margin: 0px 20px;
+>>>>>>> footer
 }
 
